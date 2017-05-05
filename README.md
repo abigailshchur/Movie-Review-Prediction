@@ -2,7 +2,7 @@
 
 Step 1: Row by row classification (fit model for each individual user)
 - [X] : General Testing metrics (error, confusion matrix)
-- [ ] : Add Testing metrics split by gender
+- [X] : Add Testing metrics split by gender
 - [ ] : Implement cross validation
 - [ ] : KMeans Approach
 - [ ] : Logistic Regression
